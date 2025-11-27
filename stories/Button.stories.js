@@ -28,7 +28,7 @@ export const Primary = {
     style: { 
       backgroundColor: '#ff0000', // Change to Red
       color: 'white',
-      padding: '10px 20px'
+      padding: '15px 30px'
     }
   },
 };
